@@ -12,7 +12,8 @@ public class Matematika {
     double setPenjumlahan(){
         return bil1 + bil2;
     }
-    double setPengurangan(){
+    
+      double setPengurangan(){
         return bil1 - bil2;
     }
     
