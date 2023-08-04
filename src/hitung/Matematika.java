@@ -13,7 +13,11 @@ public class Matematika {
         return bil1 + bil2;
     }
     
+<<<<<<< HEAD
     double setPengurangan(){
+=======
+      double setPengurangan(){
+>>>>>>> 8bdea3a43843da7fa730812090b4238320cdcdad
         return bil1 - bil2;
     }
     
@@ -24,5 +28,10 @@ public class Matematika {
     double setPembagian(){
         return bil1 / bil2;
     }
+<<<<<<< HEAD
     
+=======
+>>>>>>> 8bdea3a43843da7fa730812090b4238320cdcdad
 }
+    
+
